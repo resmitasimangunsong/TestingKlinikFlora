@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".col-md-6 offset-md-4"
+}

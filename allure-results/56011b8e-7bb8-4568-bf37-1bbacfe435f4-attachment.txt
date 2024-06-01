@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#far fa-circle nav-icon\"}\n  (Session info: chrome=119.0.6045.199)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF749BB82B2+55298]\n\t(No symbol) [0x00007FF749B25E02]\n\t(No symbol) [0x00007FF7499E05AB]\n\t(No symbol) [0x00007FF749A2175C]\n\t(No symbol) [0x00007FF749A218DC]\n\t(No symbol) [0x00007FF749A5CBC7]\n\t(No symbol) [0x00007FF749A420EF]\n\t(No symbol) [0x00007FF749A5AAA4]\n\t(No symbol) [0x00007FF749A41E83]\n\t(No symbol) [0x00007FF749A1670A]\n\t(No symbol) [0x00007FF749A17964]\n\tGetHandleVerifier [0x00007FF749F30AAB+3694587]\n\tGetHandleVerifier [0x00007FF749F8728E+4048862]\n\tGetHandleVerifier [0x00007FF749F7F173+4015811]\n\tGetHandleVerifier [0x00007FF749C547D6+695590]\n\t(No symbol) [0x00007FF749B30CE8]\n\t(No symbol) [0x00007FF749B2CF34]\n\t(No symbol) [0x00007FF749B2D062]\n\t(No symbol) [0x00007FF749B1D3A3]\n\tBaseThreadInitThunk [0x00007FFB6A277344+20]\n\tRtlUserThreadStart [0x00007FFB6A4626B1+33]\n"
+}
